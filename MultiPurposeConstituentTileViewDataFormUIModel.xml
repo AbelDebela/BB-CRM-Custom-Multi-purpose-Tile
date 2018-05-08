@@ -1,0 +1,10 @@
+﻿<UIModelWizardMetadata>
+  <SpecFileName>MultiPurposeConstituentTile.View.xml</SpecFileName>
+  <Namespace></Namespace>
+  <ClassName>MultiPurposeConstituentTileViewDataFormUIModel</ClassName>
+  <HtmlInfo GenerateHtml="true">
+    <HtmlFile>MultiPurposeConstituentTileViewDataForm.html</HtmlFile>
+    <HtmlFolder>htmlforms\custom\customconfigurationsetting\</HtmlFolder>
+  </HtmlInfo>
+  <GenerateFromDatabase>true</GenerateFromDatabase>
+</UIModelWizardMetadata>
