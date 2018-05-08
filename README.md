@@ -5,7 +5,7 @@ After working on a couple of custom constituent tile projects, I was wondering i
 Here is the assumption, the tile will have 5 line of information. Line1 – Line5. The SQL logic saved in custom configuration table fetches data as XML & nvarchar string when executed from the tile spec. 
 
 
-Both the tile header and “No record found” messages can be set from the dynamic SQL stored in configuration table. Full source code (catalog, UI & HTML forms) is in GitHub. 
+Both the tile header and “No record found” messages can be set from the dynamic SQL stored in configuration table. Here is full source code (catalog, UI & HTML forms).
 
 ![multipurposetilesumary](https://user-images.githubusercontent.com/11167096/39772283-b679e9e6-52a9-11e8-8581-8c658217ef7b.PNG)
 
