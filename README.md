@@ -7,8 +7,6 @@ Here is the assumption, the tile will have 5 line of information. Line1 – Line
 
 Both the tile header and “No record found” messages can be set from the dynamic SQL stored in configuration table. Full source code (catalog, UI & HTML forms) is in GitHub. 
 
-![multipurposetileview](https://user-images.githubusercontent.com/11167096/39730108-80c1d7c2-5214-11e8-815d-3fd6a292e272.PNG)
+![multipurposetilesumary](https://user-images.githubusercontent.com/11167096/39772283-b679e9e6-52a9-11e8-8581-8c658217ef7b.PNG)
 
-![multipurposetilesaveform](https://user-images.githubusercontent.com/11167096/39730114-89548f74-5214-11e8-9dbd-181006c25a11.PNG)
-
-![multipurposetilesql](https://user-images.githubusercontent.com/11167096/39730299-aa9629da-5215-11e8-876b-044c264665be.PNG)
+![multipurposetilesaveform](https://user-images.githubusercontent.com/11167096/39772301-c4498efa-52a9-11e8-8377-429d3ccc3513.PNG)
